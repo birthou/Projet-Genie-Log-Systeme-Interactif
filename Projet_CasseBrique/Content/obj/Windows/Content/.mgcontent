@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/../../../Projet_Casse/Projet_CasseBrique/Content/font.spritefont</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/Ball.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/balle.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/brique_menthe.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/brique_noire.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/brique_orange.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/brique_violette.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquebleue.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquegrise.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquelait.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquenoire.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briqueorange.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquepoint.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquerouge.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briquetransparente.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/briqueviolet.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/coeur.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/exit.png</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/fond1.jpg</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/fond2.jpg</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/fond3.jpg</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/fontt.spritefont</File>
+    <File>C:/Users/judme/source/repos/Projet_CasseBrique/Projet_CasseBrique/Content/Player.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>font.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

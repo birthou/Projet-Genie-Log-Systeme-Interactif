@@ -1,0 +1,9 @@
+Repartition des taches 
+
+1- Michelet Juste creation des classes Raquette et deplacement raquette du jeu
+2- Bernard Lindormise en place des differents rapports puis la creation des briques et balle avec drawio
+3- Fabienne Janvier creation de la balle et brique
+4- Jean-Bertrand Frotzner Leon creation et arrangement du mainframe, gameobjet et Elementtext2D 
+
+Merci.
+
